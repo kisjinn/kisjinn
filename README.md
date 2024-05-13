@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakshi Jinnewar</h1>
 <h3 align="center">I'm a tech enthusiast currently working on web development.</h3>
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300" alt="coding" />
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="250" height="200" alt="coding" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kisjinn&label=Profile%20views&color=0e75b6&style=flat" alt="kisjinn" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kisjinn" alt="kisjinn" /></a> </p>-->
